@@ -30,8 +30,8 @@ uart:
     number: GPIO6
     mode:
       output: true
-  baud_rate: 2400
-  parity: EVEN
+  baud_rate: 9600
+  parity: NONE
   stop_bits: 1
   # debug:
   #   direction: BOTH
